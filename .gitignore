@@ -74,3 +74,4 @@ lint/tmp/
 # lint/reports/
 app/build/
 app/src/androidTest/
+app/src/test/
